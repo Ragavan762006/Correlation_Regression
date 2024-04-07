@@ -28,8 +28,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 # Output 
-![image](https://github.com/Ragavan762006/Correlation_Regression/assets/144870714/8f5a5183-7603-4a21-9d5f-9643f422902f)
+![image](https://github.com/Ragavan762006/Correlation_Regression/assets/144870714/778e57e2-8096-42ea-8750-a90a21e97934)
+
 
 # Result
-The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
